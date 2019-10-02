@@ -1,0 +1,19 @@
+openapi: 3.0.0
+info:
+  title: phpIPAM API
+  description: phpIPAM comes with full REST API you can use to interact with phpipam
+    with your own applications. It follows rest guidelines and recommendations.
+  contact:
+    url: https://phpipam.net/contact/
+  license:
+    name: GPL v3 license
+    url: https://github.com/phpipam/phpipam/blob/master/misc/gpl-3.0.txt
+  version: "1.4"
+externalDocs:
+  description: phpIPAM API documentation
+  url: https://phpipam.net/api/api_documentation/
+servers:
+- url: https://virtserver.swaggerhub.com/lantrix/phpipam/1.4
+  description: SwaggerHub API Auto Mocking
+paths: {}
+components: {}
